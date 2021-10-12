@@ -1,0 +1,18 @@
+body {
+    background: rgb(235, 235, 235);
+}
+
+p {
+    color: #222222;
+}
+
+.foto-principal {
+    width: 200px;
+    border: 2px double #ffffff;
+    border-radius: 15% 0% 15% 0%;
+
+    /*border.width: 5px;
+    border-style: solid;
+    border-color: black;
+    */
+}
